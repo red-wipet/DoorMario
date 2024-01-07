@@ -1,0 +1,12 @@
+﻿  DoorMario.peaceful.cpp
+C:\Users\mrsuperbuddy\source\repos\DoorMario.peaceful\DoorMario.peaceful\DoorMario.peaceful.cpp(174,7): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\DoorMario.peaceful\DoorMario.peaceful\DoorMario.peaceful.cpp(184,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\DoorMario.peaceful\DoorMario.peaceful\DoorMario.peaceful.cpp(189,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\DoorMario.peaceful\DoorMario.peaceful\DoorMario.peaceful.cpp(507,24): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\DoorMario.peaceful\DoorMario.peaceful\DoorMario.peaceful.cpp(507,24): warning C4129: B: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\DoorMario.peaceful\DoorMario.peaceful\DoorMario.peaceful.cpp(513,25): warning C4129: N: неизвестная escape-последовательность
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  DoorMario.peaceful.vcxproj -> C:\Users\mrsuperbuddy\source\repos\DoorMario.peaceful\Release\DoorMario.peaceful.exe
